@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: black;
+}
+
+select, button{ /* giving same properties to select bar and button by adding comma*/
+    outline: none;
+    border-radius: 6px;
+    margin: 30px 0;
+    color: white;
+    padding: 7px;
+    font: 100 1.3rem 'Verdan' ;
+    background-color: rgb(50,50,50);
+}
+
+button{
+    background-color: palevioletred;
+    color: black;
+}
